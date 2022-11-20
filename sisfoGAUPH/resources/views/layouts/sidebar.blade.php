@@ -21,7 +21,7 @@
         
         <li class="nav-item">
           <a href='{{ asset("admin/user-role") }}' class="nav-link">
-            <i class="nav-icon fas fa-people"></i>
+            <i class="nav-icon fas fa-user"></i>
             <p>
               User Role
             </p>
@@ -30,7 +30,7 @@
 
         <li class="nav-item">
           <a href='{{ asset("admin/missing-item-status") }}' class="nav-link">
-            <i class="nav-icon fas fa-eye"></i>
+            <i class="nav-icon fas fa-exclamation"></i>
             <p>
               Missing Item Status
             </p>
@@ -39,7 +39,7 @@
 
         <li class="nav-item">
           <a href='{{ asset("admin/attendance") }}' class="nav-link">
-            <i class="nav-icon fas fa-cal"></i>
+            <i class="nav-icon fas fa-clipboard"></i>
             <p>
               Attendance
             </p>
@@ -48,7 +48,7 @@
 
         <li class="nav-item">
           <a href='{{ asset("admin/reservation") }}' class="nav-link">
-            <i class="nav-icon fas fa-paper"></i>
+            <i class="nav-icon fas fa-clock"></i>
             <p>
               Reservation
             </p>
@@ -57,7 +57,7 @@
 
         <li class="nav-item">
           <a href='{{ asset("admin/reservation-status") }}' class="nav-link">
-            <i class="nav-icon fas fa-th"></i>
+            <i class="nav-icon fas fa-clock"></i>
             <p>
               Reservation Status
             </p>
@@ -66,7 +66,7 @@
 
         <li class="nav-item">
           <a href='{{ asset("admin/schedule") }}' class="nav-link">
-            <i class="nav-icon fas fa-time"></i>
+            <i class="nav-icon fas fa-calendar"></i>
             <p>
               Schedule
             </p>
